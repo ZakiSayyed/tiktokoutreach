@@ -12,10 +12,10 @@ import random
 
 smtp_server = 'smtp.mail.yahoo.com'
 smtp_port = 587  # or 465 for SSL
-# yahoo_email = st.secrets["yahoo_email"]
-# yahoo_password = st.secrets["yahoo_pass"]
-yahoo_email = "amsterlog_za@yahoo.com"
-yahoo_password = "anywglrypagcdhuk"
+yahoo_email = st.secrets["yahoo_email"]
+yahoo_password = st.secrets["yahoo_pass"]
+# yahoo_email = "amsterlog_za@yahoo.com"
+# yahoo_password = "anywglrypagcdhuk"
 
 
 st.markdown("<h1 style='text-align: center;'>TikTok Studio Bot</h1>", unsafe_allow_html=True)
